@@ -2,6 +2,8 @@
 
 Windows 桌面翻译工具。Ctrl+T 截图选区，框住文字自动识别翻译。图片、按钮、菜单、网页里不能复制的文字都能翻。
 
+**[📥 下载最新版 Release](https://github.com/star-power0/HoverTranslator/releases)** — 下载 zip 解压即用，无需安装 Python。
+
 ## 功能
 
 ### 截图选区翻译（Ctrl+T）
